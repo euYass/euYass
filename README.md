@@ -1,11 +1,11 @@
-### Olá, Eu sou a Thallyta Castro!
+### Olá, meu nome é Yasmim Araújo!
 
 ##
 
-- 🔭 Developer na NTT DATA.
-- ❤ Sou apaixonada por tecnologia, livros e gatos.
-- 🌱 Estudando Angular e Java, Rumo ao fullStack
-- 😄 Pronouns: ela/dela
+- 💻Aluna do SESI e cursando DS.
+- 🗞️Faço parte do jornal @_sesinews.
+- 🌱Apaixonada pela MPB e coisas do tipo.
+- Inefável.
 
   
 ### 🏆 Tecnologias
