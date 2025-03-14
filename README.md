@@ -3,9 +3,8 @@
 ##
 
 - 💻Aluna do SESI e cursando DS.
-- 🗞️Faço parte do jornal @_sesinews.
+- ✝️Jesus é o nosso sublime bem.
 - 🌱Apaixonada pela MPB e coisas do tipo.
-- Inefável.
 
   
 ### 🏆 Tecnologias
